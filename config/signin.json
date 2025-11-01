@@ -1,0 +1,112 @@
+[
+    {
+        "signInId": 1,
+        "signInRewards": [
+            {
+                "rewardName": "500",
+                "rewardType": "gold",
+                "rewardPic": "http://static.sandboxol.com/sandbox/activity/treasurebox/coin.png",
+                "quantity": 500
+            }
+        ]
+    },
+    {
+        "signInId": 2,
+        "isSpecial": 1,
+        "signInRewards": [
+            {
+                "rewardName": "10",
+                "rewardType": "diamond",
+                "rewardPic": "http://static.sandboxol.com/sandbox/activity/treasurebox/Bcubes.png",
+                "quantity": 10
+            }
+        ]
+    },
+    {
+        "signInId": 3,
+        "signInRewards": [
+            {
+                "rewardName": "1000",
+                "rewardType": "gold",
+                "rewardPic": "http://static.sandboxol.com/sandbox/activity/treasurebox/coin.png",
+                "quantity": 1000
+            }
+        ]
+    },
+    {
+        "signInId": 4,
+        "isSpecial": 1,
+        "signInRewards": [
+            {
+                "rewardName": "100",
+                "rewardType": "diamond",
+                "rewardPic": "http://static.sandboxol.com/sandbox/activity/treasurebox/Bcubes.png",
+                "quantity": 100
+            }
+        ]
+    },
+    {
+        "signInId": 5,
+        "signInRewards": [
+            {
+                "rewardName": "1500",
+                "rewardType": "gold",
+                "rewardPic": "http://static.sandboxol.com/sandbox/activity/treasurebox/coin.png",
+                "quantity": 1500
+            }
+        ]
+    },
+    {
+        "signInId": 6,
+        "signInRewards": [
+            {
+                "rewardName": "7 Days",
+                "rewardType": "vip",
+                "rewardPic": "http://static.sandboxol.com/sandbox/activity/treasurebox/VIP.png",
+                "quantity": 7,
+                "level": 1
+            }
+        ]
+    },
+    {
+        "signInId": 7,
+        "signInRewards": [
+            {
+                "rewardName": "2000",
+                "rewardType": "gold",
+                "rewardPic": "http://static.sandboxol.com/sandbox/activity/treasurebox/coin.png",
+                "quantity": 2000
+            }
+        ]
+    },
+    {
+        "signInId": 8,
+        "isSpecial": 1,
+        "signInRewards": [
+            {
+                "rewardType": "decoration",
+                "decorationId": 435
+            },
+            {
+                "rewardType": "decoration",
+                "decorationId": 432
+            },
+            {
+                "rewardType": "decoration",
+                "decorationId": 422
+            },
+            {
+                "rewardType": "decoration",
+                "decorationId": 423
+            },
+            {
+                "rewardType": "decoration",
+                "decorationId": 440
+            },
+            {
+                "rewardType": "decoration",
+                "decorationId": 413
+            }
+        ]
+    }
+]

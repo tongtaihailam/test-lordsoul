@@ -1,0 +1,13 @@
+{
+  "data": [
+    {
+      "gameId": "g1008",
+      "gameTitle": "Bed Wars",
+      "gameDetail": "This is a PVP game with 4 players in each team. Players need to protect their own beds from enemies while trying to destroy their beds. Once the enemies are all defeated you have your final victory. Collect silver, golds, emeralds and diamonds to buy better equipment and props, which will make your team stronger!",
+      "gameTypes": ["Action"],
+      "gameCoverPic": "http://staticgs.sandboxol.com/sandbox/games/images/g1008-1684547322902.png",
+      "tags": [],
+      "isPublish": 1
+    }
+  ]
+}
